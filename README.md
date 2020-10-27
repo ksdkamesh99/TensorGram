@@ -12,6 +12,16 @@ You can easily install this telegram using following command.
 ```
 pip install tensorgram
 ```
+## Dependencies/Requirements:-
+
+1. Keras
+2. Tensorflow
+3. Requests
+4. Matplotlib
+
+#### Works on python>=3.7
+
+##
 
 ## Licence:-
 
