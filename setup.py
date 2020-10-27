@@ -11,7 +11,7 @@ setuptools.setup(
     description="A realtime remote service to get the keras callbacks to the telegram including the details of metrics ",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ksdkamesh99/TensorGramBot",
+    url="https://github.com/ksdkamesh99/TensorGram",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -19,4 +19,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
+    py_modules=["tensorgram"],
+    package_dir={'':'src'},
+    
 )
