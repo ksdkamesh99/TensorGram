@@ -46,7 +46,7 @@ model.compile(loss='binary_crossentropy', optimizer=sgd,metrics=['accuracy'])
 ```
 
 2. Now go to Telegram app and search for @tensorgram_bot and join the channel by clicking on the chat.
-
+<center><img src="Images/start.jpeg" width=200px></center>
 3. This application send you the data based on the unique chat id for every user in telegram. So to get your chat id you need to go to search and type @chatid_echo_bot and click on start to get your unique chat id.
 
 4. Store it safely as it will be required later
