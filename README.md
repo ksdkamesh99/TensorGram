@@ -73,6 +73,10 @@ model.fit(X, y, batch_size=1, epochs=10,callbacks=[tf],verbose=1)
 
 8. Now if you open the telegram app you will find the updates as follows.
 
+<center><img src="Images/merged.png" width=500px float="left"></center>
+
+
+
 
 ## Licence:-
 
