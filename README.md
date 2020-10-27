@@ -4,7 +4,7 @@ A realtime remote service to get the keras callbacks to the telegram including t
 
 <p align="center">
   <a href="https://pypi.org/project/tensorgram/">
-    <img src="https://github.com/ksdkamesh99/TensorGram/blob/main/Images/tensorgram.gif" alt="Logo">
+    <img src="https://raw.githubusercontent.com/ksdkamesh99/TensorGram/main/Images/tensorgram.gif" alt="Logo">
   </a>
 </p>
 
@@ -54,9 +54,9 @@ model.compile(loss='binary_crossentropy', optimizer=sgd,metrics=['accuracy'])
 ```
 
 2. Now go to Telegram app and search for @tensorgram_bot and join the channel by clicking on the chat.
-<center><img src="https://github.com/ksdkamesh99/TensorGram/blob/main/Images/start.jpeg" width=200px></center>
+<img src="https://raw.githubusercontent.com/ksdkamesh99/TensorGram/main/Images/start.jpeg" width=200px>
 3. This application send you the data based on the unique chat id for every user in telegram. So to get your chat id you need to go to search and type @chatid_echo_bot and click on start to get your unique chat id.
-<center><img src="https://github.com/ksdkamesh99/TensorGram/blob/main/Images/chatid.jpeg" width=200px></center>
+<img src="https://raw.githubusercontent.com/ksdkamesh99/TensorGram/main/Images/chatid.jpeg" width=200px>
 
 
 4. Store it safely as it will be required later
@@ -81,7 +81,7 @@ model.fit(X, y, batch_size=1, epochs=10,callbacks=[tf],verbose=1)
 
 8. Now if you open the telegram app you will find the updates as follows.
 
-<center><img src="https://github.com/ksdkamesh99/TensorGram/blob/main/Images/merged.png" width=500px float="left"></center>
+<img src="https://raw.githubusercontent.com/ksdkamesh99/TensorGram/main/Images/merged.png" width=500px float="left">
 
 
 ## Bug / Feature Request
