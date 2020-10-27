@@ -31,7 +31,7 @@ pip install tensorgram
 
 ## How to use:-
 
-1. Create a nueral network in keras.The sample code is as follows.
+* Create a nueral network in keras.The sample code is as follows.
 ```
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation
@@ -53,38 +53,58 @@ model.compile(loss='binary_crossentropy', optimizer=sgd,metrics=['accuracy'])
 
 ```
 
-2. Now go to Telegram app and search for @tensorgram_bot and join the channel by clicking on the chat.
+* Now go to Telegram app and search for @tensorgram_bot and join the channel by clicking on the chat.  
+
+<p align="center">
+  <a href="https://pypi.org/project/tensorgram/">
 <img src="https://raw.githubusercontent.com/ksdkamesh99/TensorGram/main/Images/start.jpeg" width=200px>
-3. This application send you the data based on the unique chat id for every user in telegram. So to get your chat id you need to go to search and type @chatid_echo_bot and click on start to get your unique chat id.
+</a>
+</p>
+* This application send you the data based on the unique chat id for every user in telegram. So to get your chat id you need to go to search and type @chatid_echo_bot and click on start to get your unique chat id.  
+
+<p align="center">
+  <a href="https://pypi.org/project/tensorgram/">
 <img src="https://raw.githubusercontent.com/ksdkamesh99/TensorGram/main/Images/chatid.jpeg" width=200px>
+</a>
+</p>
 
 
-4. Store it safely as it will be required later
+* Store it safely as it will be required later.  
 
-5. Now we need to import the TensorGram from tensorgram library using following code.
+* Now we need to import the TensorGram from tensorgram library using following code.  
+
 
 ```
 from tensorgram import TensorGram
 ```
 
-6. Now we need to create a object of TensorGram by specifying the following attributes like model name and chat id which you obtained before.
+* Now we need to create a object of TensorGram by specifying the following attributes like model name and chat id which you obtained before.  
+
 
 ```
 tf=TensorGram("model-name","123456789")
 ```
 
-7. Now you can start training the model and specify the object in the callbacks.
+* Now you can start training the model and specify the object in the callbacks.  
+
 
 ```
 model.fit(X, y, batch_size=1, epochs=10,callbacks=[tf],verbose=1)
 ```
 
-8. Now if you open the telegram app you will find the updates as follows.
+* Now if you open the telegram app you will find the updates as follows.  
 
+
+
+<p align="center">
+  <a href="https://pypi.org/project/tensorgram/">
 <img src="https://raw.githubusercontent.com/ksdkamesh99/TensorGram/main/Images/merged.png" width=500px float="left">
+</a>
+</p>
 
 
-## Bug / Feature Request
+## Bug / Feature Request:-
+
 If you find a bug (gave undesired results), kindly open an issue [here](https://github.com/ksdkamesh99/TensorGram/issues/new/choose) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ksdkamesh99/TensorGram/issues/new/). Please include sample queries and their corresponding results.
@@ -94,7 +114,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 This code is licensed under the MIT license, see LICENSE.txt.
 
-## 📧Contact:-
+## Contact:-
 For any kind of suggesstions/ help in code Please mail me at ksdkamesh99@gmail.com.
 
 
