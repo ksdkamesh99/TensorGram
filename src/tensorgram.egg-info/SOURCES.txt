@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/tensorgram.py
+src/tensorgram.egg-info/PKG-INFO
+src/tensorgram.egg-info/SOURCES.txt
+src/tensorgram.egg-info/dependency_links.txt
+src/tensorgram.egg-info/top_level.txt

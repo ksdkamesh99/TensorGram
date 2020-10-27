@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: tensorgram
+Version: 0.0.1
+Summary: A realtime remote service to get the keras callbacks to the telegram including the details of metrics 
+Home-page: https://github.com/ksdkamesh99/TensorGram
+Author: Sai Durga Kamesh Kota
+Author-email: ksdkamesh99@gmail.com
+License: UNKNOWN
+Description: # TensorGram
+        
+        # Introduction
+        A realtime remote service to get the keras callbacks to the telegram including the details of metrics 
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
