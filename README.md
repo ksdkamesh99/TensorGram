@@ -21,7 +21,29 @@ pip install tensorgram
 
 #### Works on python>=3.7
 
-##
+## How to use:-
+
+1. Create a nueral network in keras.The sample code is as follows.
+```
+from keras.models import Sequential
+from keras.layers import Dense, Dropout, Activation
+from keras.optimizers import SGD
+import numpy as np 
+import keras
+
+X = np.array([[0,0],[0,1],[1,0],[1,1]])
+y = np.array([[0],[1],[1],[0]])
+
+model = Sequential()
+model.add(Dense(8, input_dim=2))
+model.add(Activation('tanh'))
+model.add(Dense(1))
+model.add(Activation('sigmoid'))
+
+sgd = SGD(lr=0.1)
+model.compile(loss='binary_crossentropy', optimizer=sgd,metrics=['accuracy'])
+
+```
 
 ## Licence:-
 
