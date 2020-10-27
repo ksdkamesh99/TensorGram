@@ -6,7 +6,12 @@ A realtime remote service to get the keras callbacks to the telegram including t
 2. It is a biggest advantage for the users who need not spend hours and hours infront of system for watching the updates of the model.
 3. Updates you get are from a telegram bot.
 
+## Installation:-
 
+You can easily install this telegram using following command.
+```
+pip install tensorgram
+```
 
 ## Licence:-
 
