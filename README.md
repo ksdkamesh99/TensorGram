@@ -46,7 +46,7 @@ model.compile(loss='binary_crossentropy', optimizer=sgd,metrics=['accuracy'])
 ```
 
 2. Now go to Telegram app and search for @tensorgram_bot and join the channel by clicking on the chat.
-<center><img src="Images/start.jpeg" width=200px></center>
+<center><img src="https://github.com/ksdkamesh99/TensorGram/blob/main/Images/start.jpeg" width=200px></center>
 3. This application send you the data based on the unique chat id for every user in telegram. So to get your chat id you need to go to search and type @chatid_echo_bot and click on start to get your unique chat id.
 <center><img src="https://github.com/ksdkamesh99/TensorGram/blob/main/Images/chatid.jpeg" width=200px></center>
 
@@ -73,7 +73,7 @@ model.fit(X, y, batch_size=1, epochs=10,callbacks=[tf],verbose=1)
 
 8. Now if you open the telegram app you will find the updates as follows.
 
-<center><img src="Images/merged.png" width=500px float="left"></center>
+<center><img src="https://github.com/ksdkamesh99/TensorGram/blob/main/Images/merged.png" width=500px float="left"></center>
 
 
 
