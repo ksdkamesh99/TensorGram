@@ -1,4 +1,12 @@
+
 A realtime remote service to get the keras callbacks to the telegram including the details of metrics 
+
+
+<p align="center">
+  <a href="https://pypi.org/project/tensorgram/">
+    <img src="https://github.com/ksdkamesh99/TensorGram/blob/main/Images/tensorgram.gif" alt="Logo">
+  </a>
+</p>
 
 ## Features:-
 
