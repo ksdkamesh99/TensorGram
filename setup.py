@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tensorgram",
-    version="0.0.1",
+    version="0.0.7",
     author="Sai Durga Kamesh Kota",
     author_email="ksdkamesh99@gmail.com",
     description="A realtime remote service to get the keras callbacks to the telegram including the details of metrics ",
@@ -21,5 +21,6 @@ setuptools.setup(
     python_requires='>=3.6',
     py_modules=["tensorgram"],
     package_dir={'':'src'},
+    install_requires=["keras>=2.4", "tensorflow>=2.3","matplotlib>=3.2","requests"]
     
 )
