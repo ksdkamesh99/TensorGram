@@ -76,9 +76,17 @@ model.fit(X, y, batch_size=1, epochs=10,callbacks=[tf],verbose=1)
 <center><img src="https://github.com/ksdkamesh99/TensorGram/blob/main/Images/merged.png" width=500px float="left"></center>
 
 
+## Bug / Feature Request
+If you find a bug (gave undesired results), kindly open an issue [here](https://github.com/ksdkamesh99/TensorGram/issues/new/choose) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ksdkamesh99/TensorGram/issues/new/). Please include sample queries and their corresponding results.
 
 
 ## Licence:-
 
 This code is licensed under the MIT license, see LICENSE.txt.
+
+## 📧Contact:-
+For any kind of suggesstions/ help in code Please mail me at ksdkamesh99@gmail.com.
+
 
