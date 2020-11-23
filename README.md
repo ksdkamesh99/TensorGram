@@ -1,5 +1,4 @@
-
-A realtime remote service to get the keras callbacks to the telegram including the details of metrics 
+A realtime remote service to get the keras callbacks to the telegram including the details of metrics .  
 
 
 <p align="center">
@@ -7,6 +6,9 @@ A realtime remote service to get the keras callbacks to the telegram including t
     <img src="https://raw.githubusercontent.com/ksdkamesh99/TensorGram/main/Images/tensorgram.gif" alt="Logo">
   </a>
 </p>
+
+[![Downloads](https://pepy.tech/badge/tensorgram)](https://pepy.tech/project/tensorgram)
+
 
 ## Features:-
 
