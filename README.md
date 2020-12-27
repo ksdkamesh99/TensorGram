@@ -33,7 +33,7 @@ pip install tensorgram
 
 ## How to use:-
 
-* Create a nueral network in keras.The sample code is as follows.
+* Create a neural network in keras.The sample code is as follows.
 ```
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation
