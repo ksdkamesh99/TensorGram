@@ -113,7 +113,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 ## 💥 How to Contribute ?
-- If you wish to contribute kindly check the [CONTRIBUTION.md](https://github.com/ksdkamesh99/TensorGram/blob/main/CONTRIBUTION.md)🤝
+- If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/ksdkamesh99/TensorGram/blob/main/CONTRIBUTING.md)🤝
 
 
 ## Code of Conduct
