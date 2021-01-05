@@ -111,6 +111,11 @@ If you find a bug (gave undesired results), kindly open an issue [here](https://
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ksdkamesh99/TensorGram/issues/new/). Please include sample queries and their corresponding results.
 
+## Our Contributors
+
+CONTRIBUTORS.md(/CONTRIBUTORS.md)
+
+
 ## Code of Conduct
 
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
