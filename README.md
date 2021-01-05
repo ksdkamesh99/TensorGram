@@ -111,9 +111,13 @@ If you find a bug (gave undesired results), kindly open an issue [here](https://
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ksdkamesh99/TensorGram/issues/new/). Please include sample queries and their corresponding results.
 
-
 ## 💥 How to Contribute ?
 - If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/ksdkamesh99/TensorGram/blob/main/CONTRIBUTING.md)🤝
+
+## Our Contributors
+
+[CONTRIBUTORS.md](/CONTRIBUTORS.md)
+
 
 
 ## Code of Conduct
