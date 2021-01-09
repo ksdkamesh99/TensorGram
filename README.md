@@ -13,7 +13,7 @@ A realtime remote service to get the keras callbacks to the telegram including t
   
 
 
-[![Downloads](https://img.shields.io/pypi/dm/Tensorgram)](https://github.com/ksdkamesh99/TensorGram)
+[![Downloads](https://img.shields.io/pypi/dm/Tensorgram)](https://pepy.tech/project/tensorgram)
 
 
 
