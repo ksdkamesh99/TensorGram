@@ -11,9 +11,9 @@ A realtime remote service to get the keras callbacks to the telegram including t
 
 <p align="center">
   
-[![Downloads](https://static.pepy.tech/personalized-badge/tensorgram?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/tensorgram)
 
-[![Downloads](https://pepy.tech/badge/tensorgram)](https://img.shields.io/pypi/dm/Tensorgram)
+
+[![Downloads](https://pepy.tech/badge/tensorgram)](https://img.shields.io/pypi/dt/Tensorgram)
 
 
 
