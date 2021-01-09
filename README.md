@@ -11,7 +11,6 @@ A realtime remote service to get the keras callbacks to the telegram including t
 <p align="center">
 
 [![Downloads](https://pepy.tech/badge/tensorgram)](https://pepy.tech/project/tensorgram)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](https://github.com/ksdkamesh99/TensorGram/issues)
 [![License](https://img.shields.io/github/license/ksdkamesh99/TensorGram)](https://github.com/ksdkamesh99/TensorGram/blob/main/LICENSE)
 [![Stargazers](https://img.shields.io/github/stars/ksdkamesh99/TensorGram)](https://github.com//ksdkamesh99/TensorGram/stargazers)
 [![Issues](https://img.shields.io/github/issues/ksdkamesh99/TensorGram)](https://github.com/thinktocode/COVID-19-Tracker/issues)
