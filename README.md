@@ -9,8 +9,9 @@ A realtime remote service to get the keras callbacks to the telegram including t
 
 [![Downloads](https://pepy.tech/badge/tensorgram)](https://pepy.tech/project/tensorgram)
 <p align="center">
-    
-[![API](https://img.shields.io/badge/API-21%2B-yellow?style=for-the-badge)](https://android-arsenal.com/api?level=21)
+  
+[![Downloads](https://static.pepy.tech/personalized-badge/tensorgram?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/tensorgram)
+
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)](https://github.com/ksdkamesh99/TensorGram/issues)
 [![License](https://img.shields.io/github/license/ksdkamesh99/TensorGram?style=for-the-badge)](https://github.com/ksdkamesh99/TensorGram/blob/main/LICENSE)
 [![WORKFLOWS](https://img.shields.io/badge/Android%20CI-passing-red?style=for-the-badge)](https://github.com/ksdkamesh99/TensorGram/actions)
