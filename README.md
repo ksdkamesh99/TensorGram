@@ -136,6 +136,13 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
+
+## Open-source Programs
+
+
+Winter of Code is an open-source program envisioned by DevScript that helps understand the paradigm of Open Source contribution. It aims to bring students into the world of open source development and see the power of unified problem solving in real time.
+
+<img src="https://devscript.tech/woc/img/WOC-logo.png" width="40%">
 ## License
 
 This project follows the [MIT License](/LICENSE).
