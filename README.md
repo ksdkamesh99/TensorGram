@@ -126,7 +126,17 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## 💥 How to Contribute ?
 - If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/ksdkamesh99/TensorGram/blob/main/CONTRIBUTING.md)🤝
 
-## Our Contributors
+## ❤️ Thanks to our awesome contributors ✨✨
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ksdkamesh99/TensorGram/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=ksdkamesh99/TensorGram" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 [CONTRIBUTORS.md](/CONTRIBUTORS.md)
 
