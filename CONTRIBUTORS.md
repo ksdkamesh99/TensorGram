@@ -44,7 +44,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ksdkamesh99/TensorGram/graphs/contributors">
+        <a href="https://imgbot.net/">
           <img src="https://avatars1.githubusercontent.com/u/31427850?v=4" width="100px" alt=""/><br />
           <sub><b>ImgBotApp</b></sub>
         </a><br/>
