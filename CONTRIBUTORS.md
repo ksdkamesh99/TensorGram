@@ -12,7 +12,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           <img src="https://avatars1.githubusercontent.com/u/46109386?v=4" width="100px" alt=""/><br />
           <sub><b>ksdkamesh99</b></sub>
         </a><br/>
-        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=ksdkamesh99">        
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=ksdkamesh99">        
             👑 💻 👀 💬 Author
         </a>
     </td>
@@ -21,7 +21,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           <img src="https://avatars0.githubusercontent.com/u/61831021?v=4" width="100px" alt=""/><br />
           <sub><b>akrish4</b></sub>
         </a><br/>
-        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=akrish4">
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=akrish4">
             📖
         </a>
     </td>
@@ -30,7 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           <img src="https://avatars2.githubusercontent.com/u/64524822?v=4" width="100px" alt=""/><br />
           <sub><b>muthuannamalai12</b></sub>
         </a><br/>
-        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=muthuannamalai12">
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=muthuannamalai12">
             📖
         </a>
     </td>
@@ -39,7 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           <img src="https://avatars2.githubusercontent.com/u/70213384?v=4" width="100px" alt=""/><br />
           <sub><b>Sloth-Panda</b></sub>
         </a><br/>
-        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Sloth-Panda">
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=Sloth-Panda">
             📖
         </a>
     </td>
@@ -48,7 +48,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           <img src="https://avatars1.githubusercontent.com/u/31427850?v=4" width="100px" alt=""/><br />
           <sub><b>ImgBotApp</b></sub>
         </a><br/>
-        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=ImgBotApp">
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=ImgBotApp">
             💻
         </a>
     </td>
@@ -57,7 +57,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           <img src="https://avatars3.githubusercontent.com/u/68283386?v=4" width="100px" alt=""/><br />
           <sub><b>tharunc</b></sub>
         </a><br/>
-        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=tharunc">
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=tharunc">
             📖
         </a>
     </td>
