@@ -7,9 +7,59 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-      <td align="center"><a href="https://github.com/ksdkamesh99"><img src="https://avatars2.githubusercontent.com/u/46109386?s=400&u=c680abd3f6a618a603e7f1c0e468e111e1364fff&v=4" width="100px;" alt=""/><br /><sub><b>Sai Durga Kamesh Kota
-</b></sub></a><br /><a href="https://github.com/ksdkamesh99/TensorGram/commits?author=ksdkamesh99" title="Code">💻</a></td>
-      <td align="center"><a href="https://github.com/akrish4"><img src="https://avatars1.githubusercontent.com/u/61831021?s=400&u=31f7ece09fb07c20b3b97673f448e762dc0946b0&v=4" width="100px;" alt=""/><br /><sub><b>Ananthakrishnan Nair RS
-</b></sub></a><br /><a href="https://github.com/ksdkamesh99/TensorGram/commits?author=akrish4" title="Code">💻</a></td>
-      <td align="center"><a href="https://github.com/muthuannamalai12"><img src="https://avatars0.githubusercontent.com/u/64524822?s=400&u=c1f8f317ca1eb1340f411b69b3b7c85446303ae5&v=4" width="100px;" alt=""/><br /><sub><b>Muthu Annamalai.V
-</b></sub></a><br /><a href="https://github.com/ksdkamesh99/TensorGram/commits?author=muthuannamalai12" title="Code">💻</a></td>
+     <td align="center">
+        <a href="https://github.com/ksdkamesh99">
+          <img src="https://avatars1.githubusercontent.com/u/46109386?v=4" width="100px" alt=""/><br />
+          <sub><b>ksdkamesh99</b></sub>
+        </a><br/>
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=ksdkamesh99">        
+            👑 💻 👀 💬 Author
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/akrish4">
+          <img src="https://avatars0.githubusercontent.com/u/61831021?v=4" width="100px" alt=""/><br />
+          <sub><b>akrish4</b></sub>
+        </a><br/>
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=akrish4">
+            📖
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/muthuannamalai12">
+          <img src="https://avatars2.githubusercontent.com/u/64524822?v=4" width="100px" alt=""/><br />
+          <sub><b>muthuannamalai12</b></sub>
+        </a><br/>
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=muthuannamalai12">
+            📖
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Sloth-Panda">
+          <img src="https://avatars2.githubusercontent.com/u/70213384?v=4" width="100px" alt=""/><br />
+          <sub><b>Sloth-Panda</b></sub>
+        </a><br/>
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=Sloth-Panda">
+            📖
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://imgbot.net/">
+          <img src="https://avatars1.githubusercontent.com/u/31427850?v=4" width="100px" alt=""/><br />
+          <sub><b>ImgBotApp</b></sub>
+        </a><br/>
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=ImgBotApp">
+            💻
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/tharunc">
+          <img src="https://avatars3.githubusercontent.com/u/68283386?v=4" width="100px" alt=""/><br />
+          <sub><b>tharunc</b></sub>
+        </a><br/>
+        <a href="https://github.com/ksdkamesh99/TensorGram/commits?author=tharunc">
+            📖
+        </a>
+    </td>
+  </tr>
+</table>
