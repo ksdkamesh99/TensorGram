@@ -47,11 +47,11 @@ pip install tensorgram
 
 * Create a neural network in keras.The sample code is as follows.
 ```
-from keras.models import Sequential
-from keras.layers import Dense, Dropout, Activation
-from keras.optimizers import SGD
+import tensorflow
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Dropout, Activation
 import numpy as np 
-import keras
+from tensorflow.keras.optimizers import SGD
 
 X = np.array([[0,0],[0,1],[1,0],[1,1]])
 y = np.array([[0],[1],[1],[0]])
@@ -62,8 +62,10 @@ model.add(Activation('tanh'))
 model.add(Dense(1))
 model.add(Activation('sigmoid'))
 
-sgd = SGD(lr=0.1)
+sgd = SGD(learning_rate=0.1)
 model.compile(loss='binary_crossentropy', optimizer=sgd,metrics=['accuracy'])
+
+
 
 ```
 
